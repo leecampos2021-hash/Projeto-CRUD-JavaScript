@@ -63,6 +63,6 @@ DELETE	/filmes/:id	Remove um filme
 - Validação com middleware
 - Tratamento de erros com try/catch
 - Padrão REST
-📄 Licença
+ 
 
 Projeto acadêmico para fins de estudo.
